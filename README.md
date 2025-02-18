@@ -16,4 +16,4 @@
 
 📫 **Contacto:**  
 📩 Email: [joseluisamadochacon@gmail.com](mailto:joseluisamadochacon@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-luis-amado-chacon/) | [GitHub](https://github.com/joseach116
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-luis-amado-chacon/) | [GitHub](https://github.com/joseach116)
