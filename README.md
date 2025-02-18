@@ -1,6 +1,7 @@
 # Hi there 👋
 
 # Jose Luis Amado Chacón
+<img src="https://i.imgur.com/EZG90LH.jpe" alt="Texto alternativo" width="300"/>
 **🚀 Full Stack Developer**  
 
 💻 Soy desarrollador **Full Stack** con experiencia en la creación de aplicaciones web dinámicas y escalables.  
