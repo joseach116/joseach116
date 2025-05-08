@@ -1,8 +1,6 @@
 ![Banner](./banner.png)
 
 
-# Jose Luis Amado Chacón
-
 **🚀 Full Stack Developer**  
 
 💻 Desarrollador **Full Stack** con experiencia en la creación de aplicaciones web dinámicas y escalables.  
